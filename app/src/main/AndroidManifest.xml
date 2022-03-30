@@ -11,11 +11,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RetrofitGsonExample" >
-        <service
-            android:name=".MyFirebaseMessageNotificaion"
-            android:enabled="true"
-            android:exported="true" >
-        </service>
 
         <activity
             android:name=".MainActivity"
@@ -44,7 +39,7 @@
              notification message. See README(https://goo.gl/6BKBk7) for more. -->
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
-            android:resource="@color/design_default_color_secondary" />
+            android:resource="@color/black" />
     </application>
 
 </manifest>
