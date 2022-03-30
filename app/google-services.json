@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388357598874",
+    "project_id": "retrofitgsonexample",
+    "storage_bucket": "retrofitgsonexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388357598874:android:f001ef65d25bb488223923",
+        "android_client_info": {
+          "package_name": "com.sbilife.retrofitgsonexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388357598874-lnqkou7kipis1744e13h9hv5aq8fpqsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhus8Xy8PxKNkcXzWpP4jbpxp-ikiq7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388357598874-lnqkou7kipis1744e13h9hv5aq8fpqsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
